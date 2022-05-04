@@ -1,0 +1,5 @@
+ST001 Alsatian_Str NH001 30
+ST002 Glen_Austin NH001 35
+ST003 Nelson_Mandela NH002 34
+ST004 congo_Street NH007 40
+ST005 BelAir_Drive NH008 42

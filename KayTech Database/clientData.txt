@@ -1,0 +1,10 @@
+CL001 Christella 2
+CL002 Elodie 1
+CL003 Daniel 1
+CL004 Ketsya 4
+CL005 James 2
+CL006 Nathan 1
+CL007 Paul 5
+CL008 Gary 2
+CL009 Candice 1
+CL0010 Bernadette 2

@@ -1,0 +1,6 @@
+MT001 Kinshasa Kinshasa 25
+MT002 Lubumbashi Katanga 30
+MT003 Manita Lualaba 45
+MT004 Joburg Gauteng 50
+MT005 Likasi Katanga 30
+MT006 Kipushi Tanganyika 13
